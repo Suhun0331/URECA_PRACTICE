@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e998607-9220-45e9-886c-57effb60c109" name="Changes" comment="" />
+    <list default="true" id="1e998607-9220-45e9-886c-57effb60c109" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/homework2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/CastingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/CastingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/EqualsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/EqualsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/VarInitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/VarInitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/VarWhereTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch02/VarWhereTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/BreakLabel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/BreakLabel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/DoWhileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/DoWhileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/DrawStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/DrawStar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/For99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/For99.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/ForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/ForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/IfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/IfTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/OperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/OperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/ShortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch03/ShortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/ArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/ArrayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/ArrayTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/ArrayTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/RefVarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch05/RefVarTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +37,20 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2rsS9Wpr4LSsv0MspYOMcnwQVnj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -28,6 +59,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/SUHUN/OneDrive/Desktop/kkijuk_ver2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -39,8 +77,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737346140797</updated>
-      <workItem from="1737346141642" duration="6000" />
+      <workItem from="1737346141642" duration="26257000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
