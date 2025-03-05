@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e998607-9220-45e9-886c-57effb60c109" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jan/java_250120/ch15/Collection1List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,12 +59,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/SUHUN/OneDrive/Desktop/ureca/ureca_practice",
+    "last_opened_file_path": "C:/Users/SUHUN/OneDrive/Desktop/ureca/mini1_260306",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
@@ -82,7 +86,9 @@
       <workItem from="1737640216082" duration="661000" />
       <workItem from="1737677157336" duration="2783000" />
       <workItem from="1737764380964" duration="325000" />
-      <workItem from="1738541101705" duration="705000" />
+      <workItem from="1738541101705" duration="4612000" />
+      <workItem from="1738631572384" duration="3042000" />
+      <workItem from="1741156959680" duration="441000" />
     </task>
     <servers />
   </component>
